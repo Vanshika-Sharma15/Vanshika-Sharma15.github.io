@@ -35,6 +35,10 @@
         {
           "name": "mongo db",
           "iconifyClass": "skill-icons:mongodb"
+        },
+        {
+          "name": "Stripe",
+          "iconifyClass": "skill-icons:stripe"
         }
       ]
     },
