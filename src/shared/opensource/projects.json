@@ -1,0 +1,103 @@
+
+{
+  "data": [
+    {
+      "id": "R_kgDOJWL0-g",
+      "name": "Green Cart",
+      "createdAt": "2025",
+      "url": "https://github.com/Vanshika-Sharma15/Green-Cart",
+      "description": "Green Cart is a full-stack MERN-based e-commerce application built with a modular architecture where React handles the client-side UI, Redux Toolkit manages global application state, Node.js and Express power the RESTful backend APIs, MongoDB with Mongoose provides a scalable NoSQL data layer, JWT-based authentication secures user sessions, bcryptjs ensures password hashing, Axios enables frontend–backend communication, Tailwind CSS provides utility-first responsive styling, and the application is deployed on Vercel for efficient cloud hosting and continuous deployment.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "simple-icons:react"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Tailwind",
+          "iconifyClass": "skill-icons:tailwindcss-light"
+        }, {
+          "name": "Express.js",
+          "iconifyClass": "skill-icons:expressjs-dark"
+        },
+        {
+          "name": "Node.js",
+          "iconifyClass": "devicon-plain:nodejs-wordmark"
+        },
+        {
+          "name": "mongo db",
+          "iconifyClass": "skill-icons:mongodb"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYHA",
+      "name": "Wanderlust",
+      "createdAt": "2025",
+      "url": "https://github.com/Vanshika-Sharma15/Air-bnb-clone",
+      "description": "📦Wanderlust is a full-stack web application built using Node.js and Express.js with EJS as the server-side templating engine for dynamic page rendering. The application uses a relational SQL database for structured data management, implementing normalized schemas for users, listings, and reviews. Backend logic follows RESTful routing and MVC architecture, while middleware-based authentication and request handling ensure secure and efficient application workflow..",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Bootstrap",
+          "iconifyClass": "skill-icons:bootstrap"
+        }, {
+          "name": "Express.js",
+          "iconifyClass": "skill-icons:expressjs-dark"
+        },
+        {
+          "name": "Node.js",
+          "iconifyClass": "devicon-plain:nodejs-wordmark"
+        },
+        {
+          "name": "MY SQL",
+          "iconifyClass": "skill-icons:mysql-light"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "masterPortfolio",
+      "createdAt": "2025",
+      "url": "https://github.com/Vanshika-Sharma15/Vanshika-Sharma15.github.io",
+      "description": "🔥My portfolio",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Dockerfile",
+          "iconifyClass": "simple-icons:docker"
+        }
+      ]
+    }
+    
+      ]
+    }
+ 
