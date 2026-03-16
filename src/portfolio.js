@@ -352,10 +352,14 @@ const degrees = {
       alt_name: "Shobhit_University",
       duration: "2022-2026",
       descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
-      ],
+"⚡ Currently pursuing a B.Tech in Computer Science and Engineering (8th Semester) with a CGPA of 8.7, developing strong theoretical foundations in Data Structures, Algorithms, Database Management Systems, Operating Systems, Computer Architecture, and Artificial Intelligence.",
+"⚡ Awarded the Merit-cum-Means Scholarship for academic excellence, recognizing consistent high academic performance among the top-performing students in the program.",
+"⚡ Built practical software engineering expertise through a Full Stack Web Development program, designing and implementing scalable web applications using modern frontend and backend technologies.",
+"⚡ Developed programming proficiency in Java and Python along with hands-on experience in image processing and computer vision techniques for solving real-world visibility and enhancement problems.",
+"⚡ Secured 3rd place in a Hackathon by developing an innovative technical solution, demonstrating strong analytical thinking, rapid prototyping, and collaborative problem-solving skills.",
+"⚡ Selected for a Summer Internship at IRDE, DRDO (Ministry of Defence) during the 6th semester, contributing to research-oriented projects and gaining exposure to real-world defense technology systems.",
+"⚡ Further selected under the PM Internship Scheme for a paid internship at DRDO during the 7th semester, working on advanced technical implementations and strengthening system-level engineering and problem-solving capabilities."
+],
       website_link: "https://sug.ac.in/",
     },
     {
